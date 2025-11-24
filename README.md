@@ -4,8 +4,8 @@
 
 
 
-## About Me
-I'm a Senior developer with a focus on becoming a Tech Architect developer and a passion for **finance** and **tech tutorials**. and working on projects using **PHP 8** and **Redux**.
+## About Us
+![What We do](akshaya-tech-ventures-final.png)
 
 ## 🔧 Technologies I work with
 - Languages: JavaScript, PHP (7 & 8), Python
